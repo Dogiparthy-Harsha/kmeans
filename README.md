@@ -14,7 +14,7 @@
 
 
 ## *c) Gaussian Mixture Models (GMM) Clustering*
-- *Google Colab*: [Colab Link](https://colab.research.google.com/drive/1XkCw87EGKPu9dgo1vrPCT5_m_nTqY1ey?usp=sharing)
+- *Google Colab*: [Colab Link](https://colab.research.google.com/drive/1m1U1Olh65pfbe9WBfjwBlvUN1FnBEczd?usp=sharing)
 
 
 
