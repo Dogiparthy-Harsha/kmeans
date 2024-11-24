@@ -19,7 +19,7 @@
 
 
 ## *d) DBSCAN Clustering with PyCaret*
-- *Google Colab*: [Colab Link](https://colab.research.google.com/drive/1Iyzps256t_MTZmuPk9HtTk3G7Nm-UpF2?usp=sharing)
+- *Google Colab*: [Colab Link](https://colab.research.google.com/drive/1QBGHRG3__yIFWfT79rt7GfvkQlXagaCf?usp=sharing)
 
 
 
