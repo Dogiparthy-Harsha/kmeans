@@ -19,12 +19,12 @@
 
 
 ## *d) DBSCAN Clustering with PyCaret*
-- *Google Colab*: [Colab Link](https://colab.research.google.com/drive/19N--Tm6DXf4mz5rJuHWHGGRSEFSkaUVP?usp=sharing)
+- *Google Colab*: [Colab Link](https://colab.research.google.com/drive/1QBGHRG3__yIFWfT79rt7GfvkQlXagaCf?usp=sharing)
 
 
 
 ## *e) Anomaly Detection Using PyOD*
-- *Google Colab*: [Colab Link](https://colab.research.google.com/drive/1nKpdYdnoYcI-9jJQ3j0YqUwz_oOrPEWV?usp=sharing)
+- *Google Colab*: [Colab Link](https://colab.research.google.com/drive/19N--Tm6DXf4mz5rJuHWHGGRSEFSkaUVP?usp=sharing)
 
 
 
