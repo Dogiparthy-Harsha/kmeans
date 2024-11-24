@@ -9,7 +9,7 @@
 
 
 ## *b) Hierarchical Clustering*
-- *Google Colab*: [Colab Link](https://colab.research.google.com/drive/1QE6LiMakto_bBsDRnBxkYfiCWQXAFnMm?usp=sharing)
+- *Google Colab*: [Colab Link](https://colab.research.google.com/drive/1a-FoLh8RTtzHI4hhqzLLgqJeeqYQwK_U?usp=sharing)
 
 
 
