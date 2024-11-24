@@ -4,7 +4,7 @@
 ---
 
 ## *a) K-Means Clustering*
-- *Google Colab*: [Colab Link](https://colab.research.google.com/drive/1TBntsEYloYaHyY_Omp4fmfc0BsW3hFlK?usp=sharing)
+- *Google Colab*: [Colab Link](https://colab.research.google.com/drive/1QrZ4e3o5GfXyIxIVN_8Khl__B7x32hjI?usp=sharing)
 
 
 
