@@ -47,4 +47,4 @@
 - *Google Colab*: [Colab Link](https://colab.research.google.com/drive/1fXTv5h_vEfxe54odzvWhVVHHckv-VSUB?usp=sharing)
 
 
-youtube link: https://youtu.be/J6KKZbMYfUc
+youtube link: https://youtu.be/iuppetbF6RI
