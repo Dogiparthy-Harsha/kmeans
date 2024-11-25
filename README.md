@@ -44,7 +44,7 @@
 ---
 
 ## *i) Audio Clustering with ImageBind LLM Embeddings*
-- *Google Colab*: [Colab Link](https://colab.research.google.com/drive/1pNKRG4TP7Rkw_05eWNQJ87aQf1RLj-js?usp=sharing
+- *Google Colab*: [Colab Link](https://colab.research.google.com/drive/1fXTv5h_vEfxe54odzvWhVVHHckv-VSUB?usp=sharing)
 
 
 youtube link: https://youtu.be/J6KKZbMYfUc
