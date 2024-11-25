@@ -29,7 +29,7 @@
 
 
 ## *f) Clustering of Time Series Data Using Pretrained Models*
-- *Google Colab*: [Colab Link](https://colab.research.google.com/drive/1rDhhdb07vmMdUWmZ5KuV2D_4liIUBLcQ?usp=sharing)
+- *Google Colab*: [Colab Link](https://colab.research.google.com/drive/1RHnwi4-4cBuf9FaplR_cQbjkUz6LcwY5?usp=sharing)
 
 
 
